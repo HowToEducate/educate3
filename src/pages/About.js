@@ -6,7 +6,7 @@ function About() {
   return (
     <div className='about'>
         <div className='aboutTop'
-         style={{backgroundImage:`url(${TopImg})`}}></div>About
+         style={{backgroundImage:`url(${TopImg})`}}></div>
          <div className='aboutBottom'>
             <h1>ABOUT US</h1>
             <p>Aliquip excepteur Lorem est labore adipisicing nisi Lorem quis nisi consectetur. Commodo ad excepteur id quis do irure veniam ipsum ea Lorem ullamco ad commodo. Ipsum nulla sit ut commodo deserunt mollit proident do ea aliquip adipisicing non.
